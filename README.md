@@ -1,5 +1,4 @@
-# Activity Recognition in Senior Citizens
-
+# Activity Recognition in Senior Citizens  
 ## Overview
 This project utilizes a dataset comprising records from 18 older adults, with ages ranging from 70 to 95 years. These individuals wore tri-axial accelerometers for 40 minutes as part of a semi-structured daily life protocol. The primary objective of this project was to develop Machine Learning models capable of predicting and classifying various activities based on sensor measurements.
 
